@@ -64,7 +64,7 @@
 		<div class="flex md:hidden">
 			<button
 				type="button"
-				name="menu"
+				aria-label="Open Menu"
 				on:click={showMenu}
 				class="text-gray-400 w-8 hover:text-gray-400 focus:outline-none focus:text-gray-400"
 			>

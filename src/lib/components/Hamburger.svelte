@@ -4,7 +4,7 @@
 
 <button
 	type="button"
-	name="menu-button"
+	aria-label="Toggle Menu"
 	class="text-gray-500 hover:text-gray-700 cursor-pointer mr-4 border-none focus:outline-none"
 	class:open
 	on:click={() => (open = !open)}

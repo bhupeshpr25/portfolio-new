@@ -25,7 +25,7 @@ export const projects: Project[] = [
 		description: 'A whiteboard drawing app with a color palette, undo/redo and export options',
 		githubLink: 'https://github.com/bhupeshpr25/viteboard',
 		demoLink: 'http://viteboard.vercel.app/',
-		technologies: ['React.js', 'Redux', 'Typescript', 'Vanilla-Extract']
+		technologies: ['React.js', 'Redux', 'Typescript', 'CSS']
 	},
 	{
 		name: 'BingeBoard',
