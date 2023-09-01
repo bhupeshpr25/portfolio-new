@@ -34,7 +34,7 @@ export const projects: Project[] = [
 		description: 'A web application that allows users to manage media and media related notes',
 		githubLink: 'https://github.com/bhupeshpr25/bingeboard-frontend',
 		demoLink: 'http://bingeboard.vercel.app/',
-		technologies: ['React.js', 'Node.js', 'Typescript', 'PostgreSQL']
+		technologies: ['React', 'Node', 'Typescript', 'PostgreSQL']
 	},
 	{
 		name: 'MiniBlog',

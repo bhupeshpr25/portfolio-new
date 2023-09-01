@@ -10,9 +10,9 @@
 </svelte:head>
 
 <section>
-	<div class="mt-20 ml-12 lg:ml-64">
+	<div class="mt-12 ml-12 lg:ml-64">
 		<div
-			class="bg-clip-text text-transparent bg-gradient-to-r from-teal-500 via-blue-500 to-blue-500 text-3xl lg:text-4xl font-extrabold my-10 py-2"
+			class="bg-clip-text text-transparent bg-gradient-to-r from-teal-500 via-blue-500 to-blue-500 text-3xl lg:text-4xl font-extrabold my-10 lg:mt-0 py-2"
 		>
 			My Toolbox
 		</div>
@@ -107,12 +107,16 @@
 		</div>
 	</div>
 	<div
-		class="bg-gray-700 w-fit p-4 mt-20 h-20 flex items-center mx-auto space-x-4 rounded-xl text-gray-200"
+		class="bg-gray-700 w-fit mx-auto p-4 my-10 h-full flex flex-col lg:flex-row items-center space-x-4 rounded-xl text-gray-200"
 	>
-		<div class="font-bold uppercase p-2 rounded-xl bg-gray-800 text-gray-200">Personal Stack</div>
+		<div class="font-bold uppercase p-2 w-fit lg:w-64 rounded-xl bg-gray-800 text-gray-200">
+			Personal Stack
+		</div>
 
-		<div>VS Code</div>
-		<div>Internet</div>
-		<div>Tea</div>
+		<div class="w-full mt-4 block lg:mt-0 lg:flex lg:items-stretch lg:justify-evenly">
+			<div>VS Code</div>
+			<div>Internet</div>
+			<div>Tea</div>
+		</div>
 	</div>
 </section>

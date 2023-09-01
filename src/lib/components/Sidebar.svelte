@@ -24,15 +24,15 @@
 	];
 </script>
 
-<nav class="fixed hidden left-0 top-1/3 z-50 px-5 py-3 bg-transparent lg:flex flex-col space-y-8">
+<nav class="fixed hidden left-0 top-1/3 z-50 px-8 py-3 bg-transparent lg:flex flex-col space-y-8">
 	{#each links as { icon, href }}
 		<a {href} target="_blank" rel="noreferrer">
 			<img
 				src={icon}
-				width="48"
-				height="48"
+				width="72"
+				height="72"
 				alt="github"
-				class="ease-out hover:translate-y-1 transition-all"
+				class="h-12 w-12 ease-out hover:translate-y-1 transition-all"
 			/>
 		</a>
 	{/each}

@@ -16,8 +16,8 @@
 </script>
 
 <div class="m-4 lg:mx-20 lg:my-10 flex items-center justify-center font-mono">
-	<div class="rounded-xl my-4 w-84 md:w-full h-full lg:h-64 bg-gray-700 shadow-lg">
-		<div class="md:flex mb-2 leading-none max-w-4xl">
+	<div class="rounded-xl my-4 lg:w-full h-full lg:h-64 bg-gray-700 shadow-lg">
+		<div class="md:flex mb-2 w-80 md:w-full leading-none max-w-4xl">
 			<div class="flex items-center">
 				<div class="overflow-hidden p-4 cursor-pointer rounded-xl relative group">
 					<div

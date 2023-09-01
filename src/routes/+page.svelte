@@ -16,7 +16,7 @@
 	/>
 </svelte:head>
 
-<div class="flex items-center justify-center">
+<div class="flex items-center justify-center mb-48 md:mb-0">
 	<div class="container mx-12 my-20 lg:mx-40 py-4">
 		<div class="self-center lg:flex lg:items-center lg:justify-between lg:mx-12">
 			<div class="w-80 lg:w-3/5">

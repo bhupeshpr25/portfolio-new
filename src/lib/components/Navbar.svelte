@@ -37,8 +37,14 @@
 <nav class="container px-6 py-8 md:flex md:justify-between md:items-center">
 	<div class="flex md:w-full items-center justify-between">
 		<div>
-			<a href="/">
-				<img src={logo} width="60" height="60" alt="" class="hover:animate-pulse" />
+			<a href="/" aria-label="Home">
+				<img
+					src={logo}
+					width="90"
+					height="90"
+					alt=""
+					class="hover:animate-pulse h-12 w-12 lg:h-16 lg:w-16"
+				/>
 			</a>
 		</div>
 
@@ -58,6 +64,7 @@
 		<div class="flex md:hidden">
 			<button
 				type="button"
+				name="menu"
 				on:click={showMenu}
 				class="text-gray-400 w-8 hover:text-gray-400 focus:outline-none focus:text-gray-400"
 			>
