@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Projects - Bhupesh Pradhan</title>
+	<title>Toolbox - Bhupesh Pradhan</title>
 	<meta name="title" content="Bhupesh Pradhan - Software Developer" />
 	<meta
 		name="description"
