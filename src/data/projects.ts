@@ -40,7 +40,7 @@ export const projects: Project[] = [
 		name: 'MiniBlog',
 		icon: icon3,
 		screenshot: screenshot3,
-		description: 'A short blogging platform built to practice MERN stack',
+		description: 'A web based short-blogging platform built using the MERN stack',
 		githubLink: 'https://github.com/bhupeshpr25/miniblog',
 		demoLink: 'https://mern-miniblog.herokuapp.com/',
 		technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB']
@@ -49,7 +49,7 @@ export const projects: Project[] = [
 		name: 'MemeGen',
 		icon: icon4,
 		screenshot: screenshot4,
-		description: 'A meme generator extension for the firefox browser',
+		description: 'A meme generator extension for the firefox and chromium based browsers',
 		githubLink: 'https://github.com/bhupeshpr25/memegen',
 		demoLink: 'https://addons.mozilla.org/en-US/firefox/addon/memegen/',
 		technologies: ['Svelte', 'Typescript', 'Vite', 'TailwindCSS']
