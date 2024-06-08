@@ -16,7 +16,7 @@
 </svelte:head>
 
 <div>
-	<div class="m-10 ml-8 mt-12 lg:ml-72">
+	<div class="m-10 ml-8 mt-12 lg:ml-40">
 		<h1
 			class="bg-clip-text text-transparent bg-gradient-to-r from-teal-500 to-blue-500 text-3xl lg:text-4xl font-extrabold my-10 lg:ml-8 py-2"
 		>

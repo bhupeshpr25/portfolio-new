@@ -10,7 +10,7 @@
 </svelte:head>
 
 <section>
-	<div class="mt-12 ml-12 lg:ml-64">
+	<div class="mt-12 ml-12 lg:ml-32">
 		<div
 			class="bg-clip-text text-transparent bg-gradient-to-r from-teal-500 via-blue-500 to-blue-500 text-3xl lg:text-4xl font-extrabold my-10 lg:mt-0 py-2"
 		>
