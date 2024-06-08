@@ -19,6 +19,15 @@ export interface Project {
 
 export const projects: Project[] = [
 	{
+		name: 'MemeGen',
+		icon: icon4,
+		screenshot: screenshot4,
+		description: 'A meme generator extension for the firefox and chromium based browsers',
+		githubLink: 'https://github.com/bhupeshpr25/memegen',
+		demoLink: 'https://addons.mozilla.org/en-US/firefox/addon/memegen/',
+		technologies: ['Svelte', 'Typescript', 'Vite', 'TailwindCSS']
+	},
+	{
 		name: 'ViteBoard',
 		icon: icon1,
 		screenshot: screenshot1,
@@ -44,14 +53,5 @@ export const projects: Project[] = [
 		githubLink: 'https://github.com/bhupeshpr25/miniblog',
 		demoLink: 'https://mern-miniblog.herokuapp.com/',
 		technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB']
-	},
-	{
-		name: 'MemeGen',
-		icon: icon4,
-		screenshot: screenshot4,
-		description: 'A meme generator extension for the firefox and chromium based browsers',
-		githubLink: 'https://github.com/bhupeshpr25/memegen',
-		demoLink: 'https://addons.mozilla.org/en-US/firefox/addon/memegen/',
-		technologies: ['Svelte', 'Typescript', 'Vite', 'TailwindCSS']
 	}
 ];

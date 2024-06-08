@@ -15,8 +15,10 @@
 	export let project: Project;
 </script>
 
-<div class="m-1 lg:mx-20 lg:my-10 flex items-center justify-center font-mono">
-	<div class="rounded-xl my-4 lg:w-full h-full lg:h-64 bg-gray-700 shadow-lg">
+<div
+	class="m-1 p-[2px] my-4 lg:mx-20 lg:my-10 flex items-center justify-center bg-teal-500 rounded-lg font-mono"
+>
+	<div class="rounded-xl lg:w-full h-full lg:h-64 bg-gray-700 shadow-lg border-2 border-cyan-500">
 		<div class="md:flex mb-2 w-84 md:w-full leading-none max-w-4xl">
 			<div class="flex items-center">
 				<div class="overflow-hidden p-4 cursor-pointer rounded-xl relative group">
