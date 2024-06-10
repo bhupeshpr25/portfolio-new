@@ -30,9 +30,8 @@
 				<br />
 				<br />
 				Since then, I&apos;ve been improving my skills in software development while constantly learning
-				new tools and technologies. Currently, I am in my final year of a computer science undergraduate
-				course, and I&apos;m seeking a developer role where I can help a team achieve their goal of building
-				great products.
+				new tools and technologies. I have recently graduated with a degree in computer science and am
+				seeking a developer role where I can contribute to a team&apos;s efforts in building great products.
 			</p>
 		</div>
 
